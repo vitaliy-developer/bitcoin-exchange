@@ -1,0 +1,51 @@
+@media screen and (max-width: 1920px) {
+
+}
+@media screen and (max-width: 965px) {
+  .currency__text {
+    margin-left: 0;
+  }
+  .currency {
+    justify-content: center;
+  }
+}
+@media screen and (max-width: 923px) {
+  .card {
+    justify-content: space-around;
+  }
+  .card_item {
+    margin: 7px 0;
+  }
+  .section {
+    height: 175%;
+  }
+}
+@media screen and (max-width: 831px) {
+  .dropbtn {
+    margin-left: 0;
+  }
+  .currency {
+    flex-direction: column;
+  }
+  .dropdown-content {
+    margin-left: 0;
+  }
+  .section {
+    height: 170%;
+  }
+}
+@media screen and (max-width: 616px) {
+  .currency__text {
+    margin-bottom: 20px;
+  }
+}
+@media screen and (max-width: 615px)  {
+  .section {
+    height: 235%;
+  }
+  @media screen and (max-width: 400px) {
+    .currency__text {
+      text-align: center;
+    }
+  }
+}
